@@ -47,7 +47,7 @@
 ## 📬 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/priyanshu-macwan/" target="_blank">
+  <a href="https://www.linkedin.com/in/priyanshu-macwan-697b72324/?originalSubdomain=in" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/priyansh_1310" target="_blank">
