@@ -2,7 +2,7 @@
 
 🎓 **2nd-Year Computer Science Student**  
 📍 *Kankrej, Gujarat, India*  
-💡 Passionate about **C++**, **JavaScript**, and **Digital Electronics**  
+💡 Passionate about **C++**, **C**,**JavaScript**,**Data-Science**, and **Digital Electronics**  
 🚀 I love building hackathon projects in **Blockchain**, **Space Tech**, and **Embedded Systems**
 
 ---
